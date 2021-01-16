@@ -1,3 +1,3 @@
-# Label Emmaüs - Test technique
+# TP "Le mot Mystère" d'OpenClassrooms
 
 TEst
