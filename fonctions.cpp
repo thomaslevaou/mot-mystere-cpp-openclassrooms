@@ -29,9 +29,9 @@ void guessTheWord (string wordToGuess) {
    cout << endl << "Quel est ce mot ? " << shuffledWord << endl;
    cin >> wordFromPlayer;
    if (wordToGuess == wordFromPlayer) {
-     cout << "Bravo" << endl;
+     cout << "Bien joué! Il s'agit bien du mot attendu." << endl;
    } else {
-     cout << "Ce n'est pas le mot" << endl;
+     cout << "Ce n'est pas le mot attendu. Essayez de nouveau: " << endl;
    }
   } while (wordToGuess != wordFromPlayer);
 }
