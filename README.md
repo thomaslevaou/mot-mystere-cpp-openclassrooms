@@ -1,1 +1,1 @@
-# TP "le mot mystère" du site OpenClassrooms
+# TP du mot Mystère du site OpenClassrooms
