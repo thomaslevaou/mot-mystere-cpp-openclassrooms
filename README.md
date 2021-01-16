@@ -5,14 +5,15 @@ site OpenClassrooms, à l'adresse suivante : https://openclassrooms.com/fr/cours
 
 A l'exécution du programme dans une fenêtre de commande, celui-ci demande à l'utilisateur
 d'entrer un mot. Les lettres de ce mot sont ensuite mélangées, et le code demande à
-l'utilisateur de deviner le mot mélanger. Si le mot entré par le joueur correspond
+l'utilisateur de deviner le mot mélangé.
+Si le mot entré par le joueur correspond
 bien au mot mélangé, le programme affiche un message de félicitations et s'arrête.
 Si le mot entré par le joueur ne correspond pas au mot mélangé, alors le programme
 indique que le mot n'a pas été trouvé et redemande une nouvelle saisie de l'utilisateur,
 jusqu'à ce que le mot mélangé soit trouvé.
 
 Pour installer ce programme, il suffit de le cloner et d'entrer les commandes suivantes
-à sa racine (le compilateur g++ doit être installé)
+à sa racine (le compilateur g++ doit être installé):
 ```
 make
 ./resultat
