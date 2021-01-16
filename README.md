@@ -13,7 +13,7 @@ Si le mot entré par le joueur ne correspond pas au mot mélangé, alors le prog
 indique que le mot n'a pas été trouvé et redemande une nouvelle saisie de l'utilisateur,
 jusqu'à ce que le mot mélangé soit trouvé.
 
-Pour installer ce programme, il suffit de le cloner et d'entrer les commandes suivantes
+Après avoir cloné ce projet, le programme peut être exécuté en entrant les commandes suivantes
 à sa racine (le compilateur g++ doit être installé):
 ```
 make
